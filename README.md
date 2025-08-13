@@ -22,7 +22,7 @@ This version includes the following bonus features:
 3.  **Run from the terminal.** Open a terminal or command prompt, navigate to the directory where you saved `Command-Line To-Do App.py`, and run the following command:
 
     ```bash
-  ``` Command-Line To-Do App.py ```
+  ``` Command-Line To-Do App.py
     ```
 
 4.  **Use the commands.** The program will start and prompt you for commands. The available commands are:
