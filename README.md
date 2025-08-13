@@ -2,7 +2,14 @@ Command-Line To-Do App
 
 ## 1\. Project Overview
 
-This is a simple command-line To-Do application built in Python. It allows users to add, list, mark as done, and delete tasks. The application persists tasks to a JSON file, so your to-do list is saved between sessions.
+
+This is a simple command-line To-Do application built in Python. It allows users to add, list, mark as done, and delete tasks. The application persists tasks to a JSON file, ensuring your to-do list is saved between sessions.
+
+This version includes the following bonus features:
+* **Priorities:** You can assign a priority (low, medium, high) to each task.
+* **Tags:** The app automatically generates tags for each task based on its description.
+* **Creation Timestamps:** Each task is automatically stamped with the date and time it was created.
+
 
 -----
 
