@@ -10,12 +10,12 @@ This is a simple command-line To-Do application built in Python. It allows users
 
 1.  **Ensure you have Python installed.** This program was developed with Python 3.
 
-2.  **Save the code.** Copy the provided Python code and save it as a file named `todo_app.py`.
+2.  **Save the code.** Copy the provided Python code and save it as a file named `Command-Line To-Do App.py`.
 
-3.  **Run from the terminal.** Open a terminal or command prompt, navigate to the directory where you saved `todo_app.py`, and run the following command:
+3.  **Run from the terminal.** Open a terminal or command prompt, navigate to the directory where you saved `Command-Line To-Do App.py`, and run the following command:
 
     ```bash
-    python todo_app.py
+   **Command-Line To-Do App**.py
     ```
 
 4.  **Use the commands.** The program will start and prompt you for commands. The available commands are:
@@ -34,12 +34,4 @@ This is a simple command-line To-Do application built in Python. It allows users
 
 -----
 
-## 4\. Extra Features & Notes
-
-  * **Data Persistence:** Tasks are saved to a file named `tasks.json` in the same directory. This means your to-do list will be preserved even if you close the application.
-  * **Automatic Tagging:** When you add a new task, the application automatically generates **tags** by extracting keywords from your task description and filtering out common "stop words" like "a," "the," "in," etc. This can help with future organization or searching if the application were to be expanded.
-  * **Timestamps:** Each task is automatically stamped with the date and time it was created, providing a useful record of when a task was added.
-  * **Error Handling:** The program includes basic error handling for invalid commands and non-existent task numbers, providing helpful feedback to the user.
-
------
 
