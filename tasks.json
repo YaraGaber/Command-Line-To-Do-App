@@ -1,0 +1,31 @@
+[
+    {
+        "description": "do a task",
+        "priority": "medium",
+        "tags": [
+            "task"
+        ],
+        "timestamp": "2025-08-13 10:47:23",
+        "done": true
+    },
+    {
+        "description": "study for the test",
+        "priority": "high",
+        "tags": [
+            "study",
+            "test"
+        ],
+        "timestamp": "2025-08-13 10:47:49",
+        "done": true
+    },
+    {
+        "description": "cook for dinner",
+        "priority": "low",
+        "tags": [
+            "cook",
+            "dinner"
+        ],
+        "timestamp": "2025-08-13 10:48:00",
+        "done": true
+    }
+]
